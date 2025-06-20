@@ -90,7 +90,7 @@ Select the action:
 4. Exit
 ```
 # 👨‍💻 Code Sample (Flashlight Class)
-```
+```python
 class SmartFlashlight:
     def __init__(self):
         self.state = "off"
